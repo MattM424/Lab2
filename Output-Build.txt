@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: ConsoleApp1, Configuration: Debug Any CPU ------
+1>C:\Users\ginge\source\repos\ConsoleApp1\ConsoleApp1\LAB2.cs(26,22,26,26): warning CS0219: The variable 'Exit' is assigned but its value is never used
+1>  ConsoleApp1 -> C:\Users\ginge\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
